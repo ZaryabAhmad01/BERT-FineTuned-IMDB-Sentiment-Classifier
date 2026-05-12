@@ -11,7 +11,9 @@ Accuracy: 92.26% ✅ (binary positive/negative).
 
 🚀 Quick Start:
 1. Clone repo
-   git clone https://github.com/your-username/bert-sentiment-imdb.git
+   git clone https://github.com/ZaryabAhmad01/BERT-FineTuned-IMDB-Sentiment-Classifier.git
+
+
 2. Install
    pip install -r requirements.txt
 3. Run notebook
